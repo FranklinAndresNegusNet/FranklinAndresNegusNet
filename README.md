@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FranklinAndres.Negusnet</h1>
+<h1 align="center">Hi 👋, I'm Franklin Andres</h1>
 <h3 align="center">A passionate Frontend Developer from Colombia</h3>
 
 - 🔭 I’m currently working on [by Myself](https://github.com/Trycatch-tv/team-14-frontend)
